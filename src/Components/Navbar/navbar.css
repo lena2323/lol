@@ -1,0 +1,7 @@
+.navContainer {
+  @apply w-16 h-96 fixed right-0 p-7 items-center justify-between bg-slate-600 flex flex-col;
+
+  li {
+    @apply hover:bg-red-300;
+  }
+}
